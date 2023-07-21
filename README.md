@@ -11,11 +11,12 @@
 7. [수필](#7-수필)
 ---
 ## 1. 대회 소개
-성균관대학교에서 주최한 제 4회 AIxBookathon은 인공지능 모델을 활용하여, 주어진 키워드를 주제로 수필을 작성하는 대회입니다.
+<img src="https://github.com/ryuseunghan/4th-AIxBookathon/assets/106146847/111d03d1-b5d7-4b9a-87c2-238b67789ca8.png"  width="600" height="800"/>   
+
+* 성균관대학교에서 주최한 제 4회 AIxBookathon은 인공지능 모델을 활용하여, 주어진 키워드를 주제로 수필을 작성하는 대회입니다.
+* 대회 당일날 주제가 공개되었으며 주제는 ```"담대한(Daring)"```이었습니다.
 </br>
-</br>
-대회 당일날 주제를 선정해 주제는 ```"담대한(Daring)"```이었습니다.
-</br>
+
 #### 🏆 2nd of 15 teams
 저희 팀 테이북은 본선에 진출한 총 15개의 팀 중 2위를 하여 최우수상을 수상하였습니다.
 
@@ -69,5 +70,5 @@ top-p sampling은 디코딩 전략 5가지를 정성평가를 진행해 선정�
 [How to generate text: using different decoding methods for language generation with Transformers](https://huggingface.co/blog/how-to-generate?fbclid=IwAR19kbEiW_sF19TeSr4BE4jQZSIqz0GzOFD2013fIGEH32DReW9pAFq6vDM)를 참고하였습니다.
 
 ### 7. 수필
-
+[수필 본문](북커톤(최종작)_과거에서 찾은 나_테이북.docx)
 
