@@ -31,7 +31,7 @@
 이때 주제별로 많은 데이터를 수집한 이유는 대회 당일날 주제를 공개한다는 이유도 있었지만 결과적으로 저희가 수필을 생성할 때 단락마다 각각의 최적화된 모델을 학습하는데 큰 도움이 되었습니다.
 
 ## 3. 데이터 전처리
-* KLUE : Korean Language Understanding Evaluation에서 사용한 전처리 기법 사용
+* KLUE : Korean Language Understanding Evaluation에서 사용한 전처리 기법 사용했습니다다
 
 ## 4. 주제 선정
 ### 담대한은 곧 모더니즘
@@ -53,14 +53,15 @@
 40mb 가량의 데이터로 해당 모델을 한번 더 사전학습을 진행하여 베이스 모델을 생성하였습니다.
 베이스 모델을 기반으로 각 에피소드에 해당하는 키워드를 선정하고 그 키워드에 해당하는 데이터를 통해 fine-tuning을 진행하였습니다.   
 </br>
+![화면 캡처 2023-07-21 194059](https://github.com/ryuseunghan/4th-AIxBookathon/assets/106146847/adf921e2-074d-452e-b813-caf3292a72c1)
 그 결과 10 종류의 모델을 생성하였으며 이렇게 10 종류의 모델들을 통해 수필 속 움직이는 시점과 다채롭게 변화하는 화자의 심리를 효과적으로 반영했습니다.
 
 ## 6. 모델 인퍼런스
 * top-p sampling 방법을 이용하여 텍스트를 생성
 * 짧은 텍스트를 생성하고 그 텍스트를 다시 prompt로 사용
 
-top-p sampling은 디코딩 전략 5가지를 정성평가를 진행해 선정하게 되었다.   
-[How to generate text: using different decoding methods for language generation with Transformers](https://huggingface.co/blog/how-to-generate?fbclid=IwAR19kbEiW_sF19TeSr4BE4jQZSIqz0GzOFD2013fIGEH32DReW9pAFq6vDM)를 참고하였다.
+top-p sampling은 디코딩 전략 5가지를 정성평가를 진행해 선정하게 되었습니다.   
+[How to generate text: using different decoding methods for language generation with Transformers](https://huggingface.co/blog/how-to-generate?fbclid=IwAR19kbEiW_sF19TeSr4BE4jQZSIqz0GzOFD2013fIGEH32DReW9pAFq6vDM)를 참고하였습니다.
 
 ### 7. 수필
 
