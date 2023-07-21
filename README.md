@@ -70,5 +70,5 @@ top-p sampling은 디코딩 전략 5가지를 정성평가를 진행해 선정�
 [How to generate text: using different decoding methods for language generation with Transformers](https://huggingface.co/blog/how-to-generate?fbclid=IwAR19kbEiW_sF19TeSr4BE4jQZSIqz0GzOFD2013fIGEH32DReW9pAFq6vDM)를 참고하였습니다.
 
 ### 7. 수필
-[수필 본문](북커톤(최종작)_과거에서 찾은 나_테이북.docx)
+[수필 본문](과거에서 찾은 '나'.md)
 
