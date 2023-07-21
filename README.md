@@ -8,7 +8,6 @@
 4. [주제 선정](#4-주제-선정)
 5. [모델 학습](#5-모델-학습)
 6. [모델 인퍼런스](#6-모델-인퍼런스)
-7. [수필](#7-수필)
 ---
 ## 1. 대회 소개
 <img src="https://github.com/ryuseunghan/4th-AIxBookathon/assets/106146847/111d03d1-b5d7-4b9a-87c2-238b67789ca8.png"  width="600" height="800"/>   
@@ -69,6 +68,5 @@
 top-p sampling은 디코딩 전략 5가지를 정성평가를 진행해 선정하게 되었습니다.   
 [How to generate text: using different decoding methods for language generation with Transformers](https://huggingface.co/blog/how-to-generate?fbclid=IwAR19kbEiW_sF19TeSr4BE4jQZSIqz0GzOFD2013fIGEH32DReW9pAFq6vDM)를 참고하였습니다.
 
-### 7. 수필
-[수필 본문](과거에서 찾은 '나'.md)
+
 
