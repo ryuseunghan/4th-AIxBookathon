@@ -35,6 +35,8 @@
 
 ## 4. 주제 선정
 ### 담대한은 곧 모더니즘
+<img src="https://github.com/ryuseunghan/4th-AIxBookathon/assets/106146847/512471f9-f011-436f-bc1c-9a34f644a18a.png"  width="800" height="400"/>
+
 ```
 저희는 담대함의 터부시되는 경계를 깨부수는 속성을 통해 모더니즘의 기조를 연결지어 인상주의 화가 모네
 그리고 보편적인 가치에서 벗어나 주체성을 되찾아가는 성장 수필을 구성하게 되었습니다.
@@ -53,7 +55,10 @@
 40mb 가량의 데이터로 해당 모델을 한번 더 사전학습을 진행하여 베이스 모델을 생성하였습니다.
 베이스 모델을 기반으로 각 에피소드에 해당하는 키워드를 선정하고 그 키워드에 해당하는 데이터를 통해 fine-tuning을 진행하였습니다.   
 </br>
-![화면 캡처 2023-07-21 194059](https://github.com/ryuseunghan/4th-AIxBookathon/assets/106146847/adf921e2-074d-452e-b813-caf3292a72c1)
+<img src="https://github.com/ryuseunghan/4th-AIxBookathon/assets/106146847/f81616ca-7ebe-4013-9536-fd8cfa1c1d10.png"  width="800" height="400"/>
+<img src="https://github.com/ryuseunghan/4th-AIxBookathon/assets/106146847/6e0b39e3-7b85-4416-80d1-cb8965af5e8f.png"  width="800" height="400"/>
+
+</p>
 그 결과 10 종류의 모델을 생성하였으며 이렇게 10 종류의 모델들을 통해 수필 속 움직이는 시점과 다채롭게 변화하는 화자의 심리를 효과적으로 반영했습니다.
 
 ## 6. 모델 인퍼런스
